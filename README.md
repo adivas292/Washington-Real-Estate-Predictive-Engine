@@ -38,5 +38,5 @@ I plotted a residual error chart (\(actual - predicted\)) to make sure a linear 
 ---
 
 ## 📁 Repository Structure & Journey
-*   `Washington_State_Housing_Prices.ipynb`: My original, experimental scratchpad where I downloaded the data, tested my math, and made my first plots. 
+*   `Washington_State_Housing_Prices.ipynb`: My original, experimental scratchpad where I downloaded the data, tested my math, and made my first plots to see the patterns. 
 *   `preprocessing.py`, `train.py`, `main.py`: The final production-ready modules I built after using Gemini to help teach me how to modularize my notebook code.
