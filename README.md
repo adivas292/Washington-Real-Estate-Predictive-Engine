@@ -22,7 +22,7 @@ My goal was to connect what I learned in AP Statistics and my Inspirit AI traini
 
 I split my data into an 80% training set and a 20% testing set using `scikit-learn` to see how the model would perform on houses it had never seen before. After running the predictions, I used `np.expm1()` to turn the log prices back into normal U.S. Dollars.
 
-*   **R² Score**: `0.3544` — This means my basic physical features successfully account for about 35.4% of the variance in Washington house prices. It's a solid start for a baseline model, but it proves that physical traits alone don't tell the whole story (location and zip codes matter a lot!).
+*   **R² Score**: `0.3544` — The 35.44% variability in Washington housing prices can be explained in part by its linear relationship with the square footage of the Washington house that was sold. It's a solid start for a baseline model, but it proves that physical traits alone don't tell the whole story (location and zip codes matter a lot!).
 *   **RMSE (Margin of Error)**: `$168,892.58` — On average, my model's price estimates miss the actual real-world value by about \$168k. 
 
 ### 📉 Checking My Residuals
