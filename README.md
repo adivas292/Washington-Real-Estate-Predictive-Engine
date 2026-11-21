@@ -3,7 +3,7 @@
 ## 👋 Project Overview
 I built this project to see how well standard physical features (like square footage, bedrooms, and the age of a house) can actually predict home prices in Washington State. 
 
-This project started out as a messy, exploratory analysis in a Google Colab notebook using a dataset I found on Kaggle. After practicing my data science skills there, I refactored the initial exploratory notebook into modular, production-structured Python scripts (preprocessing.py, train.py, main.py) following software engineering best practices.. 
+This project started out as a messy, exploratory analysis in a Google Colab notebook using a dataset I found on Kaggle. After practicing my data science skills there, I refactored the initial exploratory notebook into modular, production-structured Python scripts (preprocessing.py, train.py, main.py) following software engineering best practices. 
 
 My goal was to connect what I learned in AP Statistics and my Inspirit AI training to a real-world software pipeline.
 
